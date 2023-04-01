@@ -65,6 +65,7 @@ public class Gmail {
 
 	@AfterMethod
 	public void afterMethod() {
+System.out.println("");
 	}
 
 	@BeforeClass
